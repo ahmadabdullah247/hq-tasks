@@ -1,0 +1,10 @@
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\bin\Debug\netcoreapp2.1\Task1_WebExtraction.deps.json
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\bin\Debug\netcoreapp2.1\Task1_WebExtraction.runtimeconfig.json
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\bin\Debug\netcoreapp2.1\Task1_WebExtraction.runtimeconfig.dev.json
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\bin\Debug\netcoreapp2.1\Task1_WebExtraction.dll
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\bin\Debug\netcoreapp2.1\Task1_WebExtraction.pdb
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\obj\Debug\netcoreapp2.1\Task1_WebExtraction.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\obj\Debug\netcoreapp2.1\Task1_WebExtraction.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\obj\Debug\netcoreapp2.1\Task1_WebExtraction.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\obj\Debug\netcoreapp2.1\Task1_WebExtraction.dll
+C:\Users\Ahmad\Desktop\Sol\Task1_WebExtraction\Task1_WebExtraction\obj\Debug\netcoreapp2.1\Task1_WebExtraction.pdb

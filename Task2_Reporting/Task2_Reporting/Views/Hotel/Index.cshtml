@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "JSON to Excel";
+}
+
+<h3>JSON to Excel</h3>
+@if (ViewBag.fileCreated)
+{
+<div class="alert alert-success show" id="notification" role="alert">
+    Report created in root directory
+</div>
+}
+
+<form asp-controller="Hotel" asp-action="Index" method="post">
+        <textarea  name="jsontxt" placeholder="paste JSON here ..." rows="15" cols="100"></textarea><br/>
+        <input type="submit" value="Generate Excel Sheet"/>
+</form>
+
